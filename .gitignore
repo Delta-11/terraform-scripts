@@ -1,0 +1,15 @@
+first/.terraform/*
+first/.terraform.lock.hcl
+first/terraform.tfstate
+first/terraform.tfstate.backup
+
+second/.terraform/*
+second/.terraform.lock.hcl
+second/terraform.tfstate
+second/terraform.tfstate.backup
+
+
+third/.terraform/*
+third/.terraform.lock.hcl
+third/terraform.tfstate
+third/terraform.tfstate.backup
